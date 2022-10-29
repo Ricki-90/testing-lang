@@ -1,14 +1,29 @@
 .header {
     justify-content: space-between;
     border: 1px solid black;
+    margin-bottom: 50px;
 
     .header-menu {
         width: 50%;
         justify-content: space-around;
-
 
         .menu-text {
             
         }
     }
 }
+.title-langrunkarna {
+    font-size: 20px;
+    color: red;
+    font-weight: 'poppins';
+    margin-bottom: 50px;
+}
+
+
+.img-gravare {
+    width: 50%;
+    height: 50%;
+}
+
+
+

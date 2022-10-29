@@ -1,4 +1,5 @@
 import React from 'react'
+import gravare from "./../assets/images/gravare.jpg";
 
 const HeaderSection = () => {
   return (
@@ -12,6 +13,10 @@ const HeaderSection = () => {
         </div>
       </div>
       <div className="title-langrunkarna d-flex justify-content-center">Välkommen till Långrunkarna</div>
+
+      <div className="d-flex justify-content-center stylning-img">
+        <img className="img-gravare" src={gravare} alt="gravare" />
+      </div>
 
     </header>
   )
