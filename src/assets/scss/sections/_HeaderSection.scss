@@ -2,28 +2,21 @@
     justify-content: space-between;
     border: 1px solid black;
     margin-bottom: 50px;
+    background-color: rgba(211, 211, 211, 0.233);
 
     .header-menu {
-        width: 50%;
+        width: 100%;
         justify-content: space-around;
 
         .menu-text {
-            
+            font-weight: 600;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;            
         }
     }
 }
 .title-langrunkarna {
-    font-size: 20px;
+    font-size: 24px;
     color: red;
     font-weight: 'poppins';
     margin-bottom: 50px;
 }
-
-
-.img-gravare {
-    width: 50%;
-    height: 50%;
-}
-
-
-
